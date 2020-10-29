@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on ReSolve</title>
+		<link>https://reconsilium.github.io/tags/</link>
+		<description>Recent content in Tags </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en</language>
+		
+		<managingEditor>Page(/tags) (ReSolve)</managingEditor>
+    	
+		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First</title>
+			<link>https://reconsilium.github.io/post/first/</link>
+			<pubDate>Thu, 29 Oct 2020 17:54:15 -0400</pubDate>
+			<guid>https://reconsilium.github.io/post/first/</guid>
+			<description></description>
+		</item>
+      	
+	</channel>
+</rss>
