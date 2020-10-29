@@ -1,5 +1,5 @@
 theme = "harbor"
-baseurl = "https://reconsilium.github.io/"
+baseurl = "https://reconsilium.github.io"
 title = "ReSolve"
 paginate = 3
 languageCode = "en"
