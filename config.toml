@@ -1,0 +1,41 @@
+theme = "harbor"
+baseurl = "https://reconsilium.github.io/"
+title = "ReSolve"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[Author]
+  name = "ReSolve"
+
+[outputs]
+  section = ["JSON", "HTML"]
+
+[[params.nav]]
+  identifier = "about"
+  name = "About"
+  icon = "fas fa-user fa-lg"
+  url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tags"
+  name = "Tags"
+  icon = "fas fa-tag fa-lg"
+  url = "tags"
+  weight = 3
+
+# copy paste this block and change for each social media to add how many ever social media
+# acounts/links you want
+[[params.social]]
+  name="name of social media"
+  url="link to social media"
+  icon="A icon from https://fontawesome.com/"
+
+[params.logo]
+  url = "icon.png" # static/images/icon.png
+  width = 50
+  height = 50
+  alt = "Logo"
